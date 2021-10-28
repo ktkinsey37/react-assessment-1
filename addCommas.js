@@ -24,7 +24,6 @@ function addCommas(num) {
         num = foreDigits + "," + latterDigits;
         startingIdx = startingIdx - 3
     }
-    console.log(isANegative)
 
     if (isANegative){
         num = "-" + num
