@@ -20,6 +20,8 @@ A component in react is created by building a template for the component, then r
 
 - What are some difference between state and props?
 
+State is used between multiple renders while props is re-rendered every time
+
 - What does "downward data flow" refer to in React?
 
 - What is a controlled component?
