@@ -41,3 +41,5 @@ The key prop allows for each iterated component to have a specific key so that i
 - When would you use a ref? When wouldn't you use one?
 
 - What is a custom hook in React? When would you want to write one?
+
+started at 730
